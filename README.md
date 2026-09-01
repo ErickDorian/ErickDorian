@@ -30,7 +30,15 @@ C:\Users\ErickDorian> type skills.txt
 > Segurança: Nmap, Análise de Logs, Blue Team
 > Ferramentas: Git, GitHub, VirtualBox, VS Code
 
-C:\Users\ErickDorian> _
+C:\Users\ErickDorian> exit
+
+Encerrando sessão...
+```
+
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:erickspena@outlook.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericksspena/)
+
+
 
 
 
