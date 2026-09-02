@@ -70,7 +70,7 @@ C:\Users\ErickDorian> exp
 
 C:\Users\ErickDorian> certs
 
-[CERTIFICACOES]
+[CERTIFICATIONS]
 > Udemy - IT Security Specialist
   - Cybersecurity, Information Security
   - Código: UC-9f26eb02-5de8-472a-b60c-c37b2baa16b2
