@@ -44,28 +44,6 @@ C:\Users\ErickDorian> skills
 
 ```
 
-```powershell
-
-C:\Users\ErickDorian> exp
-
-[EXPERIENCE]
-> Nacional Gás - Assistente de Logística
-  - Automação de processos com planilhas e macros
-  - Redução de falhas humanas → mindset de prevenção
-  - Suporte ao cliente e resolução de problemas
-
-> Grupo Funcional - Auxiliar de Logística
-  - Emissão de notas fiscais e gestão de entregas
-  - Organização e controle de dados → atenção a detalhes
-  - Trabalho sob pressão em ambiente crítico
-
-> Espro - Aprendiz
-  - Gestão de documentos e conformidade com normas
-  - Segurança do trabalho → foco em compliance
-  - Trabalho em equipe e uso de Office 365
-
-```
-
 ```yaml
 
 C:\Users\ErickDorian> certs
