@@ -98,7 +98,8 @@ C:\Users\ErickDorian> certs
 C:\Users\ErickDorian> proj
 
 [PROJECTS]
-> Loading...
+> Leitor logs auth (Linux)
+> Identificador de Hardware (Windows)
 > Próximos commits virão em breve...
 
 ```
