@@ -19,7 +19,7 @@ C:\Users\ErickDorian> systeminfo
 [SYSTEMINFO]
 > Nome do host: Erick Pena
 > Idade: 26
-> Formação: Análise e Desenvolvimento de Sistemas
+> Formação: Análise e Desenvolvimento de Sistemas (Concluído Julho/2026)
 > Área: Cybersecurity | SOC N1 / Blue Team
 > Localização: Betim - Minas Gerais - Brasil
 > Status: Em treinamento contínuo...
