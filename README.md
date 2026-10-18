@@ -49,25 +49,17 @@ C:\Users\ErickDorian> skills
 C:\Users\ErickDorian> certs
 
 [CERTIFICATIONS]
-> Udemy - IT Security Specialist
-  - Cybersecurity, Information Security
-  - Código: UC-9f26eb02-5de8-472a-b60c-c37b2baa16b2
+> Udemy:
+- IT Security Specialist (Cybersecurity, Information Security) | ID: UC-9f26eb02-5de8-472a-b60c-c37b2baa16b2
+- Dominando Linux do Zero (Linux, Shell Script ) | ID: UC-d0ef79d6-17ef-4846-9955-26002d831067
+- Redes de Computadores (TCP/IP, Servidores, Protocolos) | ID: UC-25ce78db-9f42-47d2-9443-56979f28c55e
 
-> Udemy - Dominando Linux do Zero
-  - Linux, Shell Script
-  - Código: UC-d0ef79d6-17ef-4846-9955-26002d831067
+> Fundação Bradesco:
+- Fundamentos de TI (Hardware, Software, Infraestrutura) | ID: CF112183-1AE1-4A22-B218-0A0E55270E39
 
-> Udemy - Redes de Computadores
-  - TCP/IP, Servidores, Protocolos
-  - Código: UC-25ce78db-9f42-47d2-9443-56979f28c55e
-
-> Fundação Bradesco - Fundamentos de TI
-  - Hardware, Software, Infraestrutura
-  - Código: CF112183-1AE1-4A22-B218-0A0E55270E39
-
-> Cisco Networking Academy - Introdução à Cibersegurança
-  - Segurança da Informação, Blue Team
-  - Código: 8986cc89-6ea6-4ad4-bf51-4bda1019555a
+> Cisco Networking Academy:
+- Introduction to Cybersecurity | ID: 8986cc89-6ea6-4ad4-bf51-4bda1019555a
+- Junior Cybersecurity Analyst Career | ID: 6a3113ad-ae99-4d36-bb6a-0d4a19b451b8
 
 ```
 
